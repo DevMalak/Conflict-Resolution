@@ -1,7 +1,6 @@
 App Name: TaskManager
-Version: 1.5
-Database: MySQL-Secure
+security-update
+Version: 2.5
+Database:PostgreSQL-Secure
 Port: 8443
-Features:
-User Login
-Task Creation
+
