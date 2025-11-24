@@ -1,0 +1,7 @@
+App Name: TaskManager
+Version: 1.0
+Database: MySQL
+Port: 3000
+Features:
+User Login
+Task Creation
