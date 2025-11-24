@@ -1,7 +1,7 @@
 App Name: TaskManager
-Version: 1.0
-Database: MySQL
-Port: 3000
+Version: 1.5
+Database: MySQL-Secure
+Port: 8443
 Features:
 User Login
 Task Creation
