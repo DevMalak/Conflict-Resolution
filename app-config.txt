@@ -1,7 +1,6 @@
 App Name: TaskManager
-Version: 2.0
-Database: PostgreSQL
-Port: 5000
-Features:
-User Login
-Task Creation
+security-update
+Version: 2.5
+Database:PostgreSQL-Secure
+Port: 8443
+
